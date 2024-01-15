@@ -1,7 +1,9 @@
 /* GLOBAL */
 :root{
-    --body-bg:#fff;
-    --text-color:#222;
+    --body-bg:#fafafa;
+    --text-color:#9597a5;
+    --heading-color: #2d314d;
+    --green-grd:linear-gradient(135deg, #33d35e 0%, #2ab6d9 99.58%);
 }
 
 html{
@@ -18,7 +20,7 @@ body{
     padding: 0;
     font-size: 16px;
     line-height: 1.5;
-    font-family: 'Roboto', 'Arial',  sans-serif;
+    font-family: 'Public Sans', 'Arial',  sans-serif;
 }
 
 *, *::before, *::after{
